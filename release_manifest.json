@@ -1,0 +1,41 @@
+{
+  "scope": "public synthetic-only allowlist; no laboratory data",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 188,
+      "sha256": "ec9e60a728f40ee5f787104bb575fa20324699c1c75b404e7912637d9ee95d8c"
+    },
+    {
+      "path": "demo.py",
+      "bytes": 5153,
+      "sha256": "24b88296c265d55d87d4c7a93aafe7fdd38e5b70e47dbfe9e8c52be5a5f12b25"
+    },
+    {
+      "path": "PUBLICATION_POLICY.md",
+      "bytes": 1230,
+      "sha256": "7a424659985a1e4aaff33cf545f5bdf1fe404c36faa9563fae75832efbbf892a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3914,
+      "sha256": "98d04890178510ad6e9eb708568b82b3041419bd822ec3e07fb57e90acd46170"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 109,
+      "sha256": "2512f763b58c9a52ffaeb09cf0bbb0fc80760280125cf6371dbe3a1485d195af"
+    },
+    {
+      "path": "test_demo.py",
+      "bytes": 1982,
+      "sha256": "cec93fe489d894ecdf72d77e371799de70f04dc4e0e9508dda6e0f291c696cf3"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 1212,
+      "sha256": "e5a483583ffdef3a406e8bc0d3c8ec353be5baa18d9d4cbeddc8a13b59649d21"
+    }
+  ],
+  "manifest_self_excluded": true
+}

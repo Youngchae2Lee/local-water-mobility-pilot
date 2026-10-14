@@ -1,0 +1,10 @@
+# Deny by default; keep this publication allowlist explicit.
+*
+!.gitignore
+!README.md
+!PUBLICATION_POLICY.md
+!VALIDATION.md
+!requirements.txt
+!demo.py
+!test_demo.py
+!release_manifest.json
